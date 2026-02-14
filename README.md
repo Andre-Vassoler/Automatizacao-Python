@@ -47,4 +47,6 @@ O script principal usa a biblioteca pyautogui para controlar o mouse e teclado, 
 
 - A automação depende da posição dos elementos na tela. Caso a resolução do seu monitor seja diferente, os cliques podem ocorrer em locais incorretos.
 
-Utilize o arquivo auxiliar.py para descobrir as posições corretas do mouse antes de rodar a automação.
+- Utilize o arquivo auxiliar.py para descobrir as posições corretas do mouse antes de rodar a automação.
+
+O MEU COMPUTADOR É UM POUCO LENTO E TRAVA, ENTÃO, SE QUISER, PODE DIMINUIR O TEMPO ENTRE AS AÇÕES

@@ -50,3 +50,4 @@ O script principal usa a biblioteca pyautogui para controlar o mouse e teclado, 
 - Utilize o arquivo auxiliar.py para descobrir as posições corretas do mouse antes de rodar a automação.
 
 O MEU COMPUTADOR É UM POUCO LENTO E TRAVA, ENTÃO, SE QUISER, PODE DIMINUIR O TEMPO ENTRE AS AÇÕES
+pyautogui.PAUSE = 2 (2 segundos, pode diminuir)
